@@ -4,7 +4,7 @@
         "name": "Custom Javascript",
         "overview": "Inject custom javascript to the Jellyfin web ui",
         "description": "Inject custom javascript to the Jellyfin web ui",
-        "owner": "johnpc",
+        "owner": "leviplj",
         "category": "Other",
         "versions": [
             {
