@@ -23,7 +23,7 @@ This way, the plugin will have appropriate permissions to inject javascript into
 
 1. In Jellyfin, go to `Dashboard -> Plugins -> Catalog -> Gear Icon (upper left)` add and a repository.
 1. Set the Repository name to @johnpc (Custom Javascript)
-1. Set the Repository URL to https://raw.githubusercontent.com/johnpc/jellyfin-plugin-custom-javascript/refs/heads/main/manifest.json
+1. Set the Repository URL to https://raw.githubusercontent.com/leviplj/jellyfin-plugin-custom-javascript/refs/heads/main/manifest.json
 1. Click "Save"
 1. Go to Catalog and search for Custom Javascript
 1. Click on it and install
@@ -83,7 +83,7 @@ if (userButton.title.toLowerCase() === userNameToShowCustomCss) {
 
 1. Clone the repository:
    ```
-   git clone https://github.com/johnpc/jellyfin-plugin-custom-javascript.git
+   git clone https://github.com/leviplj/jellyfin-plugin-custom-javascript.git
    ```
 
 2. Build the plugin:

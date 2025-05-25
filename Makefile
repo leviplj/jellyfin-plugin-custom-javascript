@@ -1,5 +1,5 @@
 export VERSION := 0.0.0.1
-export GITHUB_REPO := johnpc/jellyfin-plugin-custom-javascript
+export GITHUB_REPO := leviplj/jellyfin-plugin-custom-javascript
 export FILE := custom-javascript-${VERSION}.zip
 
 build:
